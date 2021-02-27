@@ -8,6 +8,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyinstaller
 
 ## 打包
 
+使用CMD进入当前目录下，输入如下代码
 ```python
 Pyinstaller -F -w -i chengzi.ico py_word.py
 ```
